@@ -2,6 +2,9 @@
 
 An AI-powered app that turns meeting transcripts into structured notes instantly.
 
+## 🌐 Live Demo
+👉 [Try it here](https://meeting-summarizer-dzzahyh93khqiywwagebkq.streamlit.app/)
+
 ## What it does
 - ✅ Extracts summary, key decisions and action items
 - ✅ Identifies who owns each task and deadline
